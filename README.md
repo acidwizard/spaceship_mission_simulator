@@ -1,4 +1,4 @@
-# SpaceshipFuelCalc
+# SpaceshipMissionSimulator
 
 The goal of this gem is to calculate fuel to launch from one planet of the Solar System, and land to another planet of the Solar System, depending on the flight route.
 

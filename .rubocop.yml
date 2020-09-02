@@ -1,0 +1,13 @@
+Metrics/BlockLength:
+  Exclude:
+    - 'test/**/*'
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - '*.gemspec'
